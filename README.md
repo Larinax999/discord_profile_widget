@@ -91,6 +91,10 @@ findByProps("getFeaturedApplicationIds").getFeaturedApplicationIds().push(bot_id
 
 > Replace `your_bot_id_here` with your own application (bot) ID.
 
+After running the snippet, your bot appears in the widget list. Open your profile, choose your widget from the list, then click **Add Widget** or your bot name — it will show up under **Your Widgets**.
+
+<img src="widget_list.png" alt="Your bot in the widget list" width="400"> <img src="widget_added.png" alt="Widget added to your profile" width="400">
+
 ---
 
 ## Step 7 — Make your widget public
