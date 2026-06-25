@@ -54,6 +54,7 @@ Fill out the access form and click **Submit**. Access is granted **instantly**, 
 4. Click **Save changes**, then click **Publish**.
 
    ![Save changes and Publish buttons](save_and_pub_button.png)
+   > **Note:** After you change anything in the widget editor, you need to refresh/reload (`Ctrl + R`) your Discord app to view the new update.
 
 ---
 
@@ -133,3 +134,4 @@ curl -X PATCH "https://discord.com/api/v9/applications/{bot_id}/users/{user_id}/
 ## Done
 
 Your Discord profile widget is now created, published, and visible to everyone. 🎉
+NOTE: after you change anything in widget editor you need to refresh/reload your discord app to get new update  `Ctrl + R`
